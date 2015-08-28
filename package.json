@@ -1,0 +1,33 @@
+{
+  "name": "restler-promise",
+  "description": "A restler wrapper for the A+ Promise implementation of your choice",
+  "version": "0.0.1",
+  "author": {
+    "name": "Marcus Wittig",
+    "url": "https://github.com/mwittig/restler-promise"
+  },
+  "license": "MIT",
+  "main": "./restler-promise",
+  "keywords": [
+    "restler",
+    "rest",
+    "promise"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mwittig/restler-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mwittig/restler-promise/issues"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "lib/restler-promise.js",
+    "LICENSE"
+  ]
+}
