@@ -14,9 +14,9 @@
     "promise"
   ],
   "dependencies": {
+    "restler": "^3.4.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/mwittig/restler-promise.git"
