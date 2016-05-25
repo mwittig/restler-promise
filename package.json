@@ -1,6 +1,6 @@
 {
   "name": "restler-promise",
-  "description": "A restler wrapper for the A+ Promise implementation of your choice",
+  "description": "A restler wrapper for the Promises/A+ implementation of your choice",
   "version": "0.0.1",
   "author": {
     "name": "Marcus Wittig",
