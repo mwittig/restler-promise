@@ -5,7 +5,7 @@ A [restler](https://github.com/danwrong/restler) wrapper for the Promises/A+ imp
 ```
     // You may need to install bluebird first
     var Promise = require("bluebird");
-    var rest = require("./index")(Promise);
+    var rest = require("restler-promise")(Promise);
     rest.get("http://google.com/").then(function (response) {
         console.log(response);
     }).catch(function (errorResult) {
