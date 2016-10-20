@@ -1,5 +1,8 @@
 # restler-promise
 
+[![NPM Version](https://img.shields.io/npm/v/restler-promise.svg?style=flat)](https://www.npmjs.com/package/restler-promise) ![Node Version](https://img.shields.io/node/v/restler-promise.svg?style=flat) ![Downloads](https://img.shields.io/npm/dm/restler-promise.svg?style=flat) [![Build Status](https://travis-ci.org/mwittig/restler-promise.svg?branch=master)](https://travis-ci.org/mwittig/restler-promise)
+
+
 A [restler](https://github.com/danwrong/restler) wrapper for the Promises/A+ implementation of your choice. 
 
 ```
