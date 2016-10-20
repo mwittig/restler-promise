@@ -14,7 +14,7 @@
     "promise"
   ],
   "dependencies": {
-    "restler": "^3.4.0"
+    "restler-base": "^3.4.1"
   },
   "devDependencies": {},
   "repository": {
