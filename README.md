@@ -20,3 +20,9 @@ A [restler](https://github.com/danwrong/restler) wrapper for the Promises/A+ imp
         console.log(errorResult);
     });
 ```
+
+## License
+
+Copyright (c) 2015-2018, Marcus Wittig and contributors. All rights reserved.
+
+[MIT License](https://github.com/mwittig/logger-winston/blob/master/LICENSE)
